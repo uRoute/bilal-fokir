@@ -1,0 +1,219 @@
+@media all and (max-width:1376px) and (min-width:768px) {
+  body{
+
+    font-size: 14px;
+
+  }
+  .home-minu {
+    background-color: rgb(0, 0, 0, 0.8);
+    padding: 15px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1000000;
+  }
+
+  .home-minu-btn {
+    display: none;
+  }
+
+  .logo {
+    width: 100%;
+    float: none;
+  }
+  .home-text h1 {
+    font-size: 3rem;
+  }
+
+  .contener {
+    width: 90%;
+    padding: 50px 0px;
+  }
+
+  .Hello-img {
+
+    width: 50%;
+
+  }
+
+  .Hello-text {
+    width: 50%;
+    margin-top: 50px;
+
+  }
+
+  .Hello-text ul li {
+    width: 50%;
+    font-size: 13px;
+    float: left;
+    margin: 0px 0px 5px 0px;
+
+  }
+
+  .Hello-img-border {
+    border: none;
+    padding-right: 20px;
+
+  }
+
+  .Hello-img-photo {
+
+    top: 45px;
+    left: 0px;
+
+
+
+
+  }
+
+  .Our-services-item {
+    width: 50%;
+  }
+
+  .Our-portfolio-item {
+    width: 50%;
+  }
+
+  .Our-portfolio-minu ul li {
+    padding: 0px 5px;
+  }
+
+  .Number-item {
+    width: 50%;
+    padding: 15px 0px
+  }
+
+  .Client-item {
+    width: 50%;
+  }
+
+  .Client-dot {
+    padding: 0px 44%;
+  }
+
+  .Client-img {
+    float: none;
+  }
+
+  .Client-info {
+    padding-left: 0px;
+  }
+
+  .blog-item {
+    width: 50%;
+  }
+
+  .contactus form {
+    width: 50%;
+  }
+
+  .contactus .input-name {
+    width: 50%;
+  }
+}
+
+@media all and (max-width:767px) {
+  body{
+
+    font-size: 14px;
+
+  }
+  .home-text h1 {
+    font-size: 2.5rem;
+  }
+  .home-minu {
+    background-color: rgb(0, 0, 0, 0.8);
+    padding: 25px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1000000;
+  }
+
+  .home-minu-btn {
+    display: none;
+  }
+  .logo {
+    width: 100%;
+    float: none;
+  }
+
+  .contener {
+    width: 90%;
+    padding: 50px 0px;
+  }
+
+  .Hello-img {
+
+    width: 100%;
+
+  }
+
+  .Hello-text {
+    width: 100%;
+    margin-top: 50px;
+
+  }
+
+  .Hello-text ul li {
+    width: 100%;
+
+  }
+
+  .Hello-img-border {
+    border: none;
+  }
+
+  .Hello-img-photo {
+
+    top: 0px;
+    left: 0px;
+
+
+  }
+
+  .Our-services-item {
+    width: 100%;
+  }
+
+  .Our-portfolio-item {
+    width: 100%;
+  }
+
+  .Our-portfolio-minu ul li {
+    padding: 0px 5px;
+  }
+
+  .Number-item {
+    width: 100%;
+    padding: 15px 0px
+  }
+
+  .Client-item {
+    width: 100%;
+  }
+
+  .Client-dot {
+    padding: 0px 44%;
+  }
+
+  .Client-img {
+    float: none;
+  }
+
+  .Client-info {
+    padding-left: 0px;
+  }
+
+  .blog-item {
+    width: 100%;
+  }
+
+  .contactus form {
+    width: 100%;
+  }
+
+  .contactus .input-name {
+    width: 100%;
+  }
+}
